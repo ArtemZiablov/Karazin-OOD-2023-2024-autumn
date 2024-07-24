@@ -1,6 +1,7 @@
-# ArtemZiablov-ArtemZiablov-Ziablov-OOD-2023-2024-autumn
+# Ziablov-OOD-2023-2024-autumn
 OOD Java, Karazin mizhfac 
 
-Імплементував можливість обгортки Warrior-a у Vampire та Defender, таким чином, Warrior має функціонал захисту та відновлювання власного здоров'я, під час битви
-
-Додано тест, який перевіряє коректну та правильну роботу у двох варінтах обгортки
+I'm sure that many of you have some experience with computer games. But have you ever wanted to change the game so that the characters or a game world would be more consistent with your idea of the perfect game? Probably, yes.
+In this mission (and in several subsequent ones, related to it) you’ll have a chance "to sit in the developer's chair" and create the logic of a simple game about battles.
+So here I have implemented various types of warriors and battles between them, as well as armies composed of all the warriors you choose.
+All tests are also added
